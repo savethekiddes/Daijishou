@@ -1,5 +1,5 @@
 {
-  "baseUri": "https://raw.githubusercontent.com/magneticchen/Daijishou/main/platforms/",
+  "baseUri": "https://raw.githubusercontent.com/savethekiddes/Daijishou/main/platforms/",
   "platformList": [
     {
       "filename": "3DO.json",
@@ -10,6 +10,11 @@
       "filename": "AmstradCPC.json",
       "platformName": "Amstrad CPC",
       "platformShortname": "cpc"
+    },
+    {
+      "filename": "Android.json",
+      "platformName": "Android",
+      "platformShortname": "android"
     },
     {
       "filename": "Atari2600.json",
