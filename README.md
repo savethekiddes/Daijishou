@@ -16,4 +16,4 @@ This is a simple Daijishou platform repository fork for using Android games as a
 
 # Disclaimer
 
-It's really likely that I will not update this repository with further platforms being added. So it's recommended to switch back to the magneticchen index after finishing installing Android system. The Android system is still deprecated so is not supported by magneticchen nor by me. This is just a simple workaround.
+It's really likely that I will not update this repository with further platforms being added. So it's recommended to switch back to the magneticchen index after finishing installing Android platform. The Android platform is still deprecated so is not supported by magneticchen nor by me. This is just a simple workaround.
