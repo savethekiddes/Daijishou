@@ -5,11 +5,7 @@
         "shortname": "flash",
         "description": null,
         "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
-        "scraperSourceList": [
-          "LIBRETRO:FBNeo - Arcade Games",
-          "LIBRETRO:MAME",
-          "ARCADE_ITALIA:MAME"
-        ],
+        
         "boxArtAspectRatioId": 2,
         "useCustomBoxArtAspectRatio": false,
         "customBoxArtAspectRatio": null,
