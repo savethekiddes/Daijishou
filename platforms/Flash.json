@@ -19,7 +19,7 @@
             "name": "flash - KiwiBrowser - ruffle",
             "description": "Supported extensions: swf.",
             "acceptedFilenameRegex": "^(.*)\\.(?:swf)$",
-            "amStartArguments": "-n com.kiwibrowser.browser/com.google.android.apps.chrome.Main\n -a android.intent.action.VIEW\n -d file://{file.path}",
+            "amStartArguments": "-n com.kiwibrowser.browser/com.google.android.apps.chrome.Main\n -a android.intent.action.VIEW\n -d 'file://{file.path}'",
             "killPackageProcesses": true,
             "killPackageProcessesWarning": true,
             "extra": ""
