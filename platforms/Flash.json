@@ -29,6 +29,6 @@
             "killPackageProcesses": true,
             "killPackageProcessesWarning": true,
             "extra": ""
-        }
+}       
 ]
 }
