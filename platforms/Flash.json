@@ -5,7 +5,7 @@
         "shortname": "flash",
         "description": null,
         "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
-        "scraperSourceList": "[],"
+        "scraperSourceList": [],
         "boxArtAspectRatioId": 2,
         "useCustomBoxArtAspectRatio": false,
         "customBoxArtAspectRatio": null,
