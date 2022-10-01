@@ -14,6 +14,16 @@
         "customScreenAspectRatio": null,
         "extra": ""
 },
-
+"playerList": [
+        {
+            "name": "flash - Web - ruffle.rs",
+            "description": "Supported extensions: swf.",
+            "acceptedFilenameRegex": "^(.*)\\.(?:swf)$",
+            "amStartArguments": "-n com.kiwibrowser.browser/com.google.android.apps.chrome.Main -a android.intent.action.VIEW -d 'file://{file.path}'"
+            "killPackageProcesses": true,
+            "killPackageProcessesWarning": true,
+            "extra": ""
+}       
+]
     
 }
