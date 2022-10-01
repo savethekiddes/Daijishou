@@ -18,7 +18,7 @@ This is a simple Daijishou platform repository fork adding some extra platforms 
 # Avaible Platforms:
 
 - Android 
-- Flash (check (here)[] for how to install)
+- Flash (check [here](https://github.com/magneticchen/Daijishou/issues/94) for how to install)
 
 # Disclaimer
 
