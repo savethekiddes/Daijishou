@@ -24,7 +24,7 @@
             "name": "flash - Web - ruffle.rs",
             "description": "Supported extensions: swf.",
             "acceptedFilenameRegex": "^(.*)\\.(?:swf)$",
-            "amStartArguments": "-a android.intent.action.VIEW -d http://ruffle.rs/demo -e ROM {file.path}\n  -e LIBRETRO /data/data/com.retroarch.aarch64/cores/fsuae_libretro_android.so\n  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.aarch64/files/retroarch.cfg\n  -e IME com.android.inputmethod.latin/.LatinIME\n  -e DATADIR /data/data/com.retroarch.aarch64\n  -e APK /data/app/com.retroarch.aarch64-1/base.apk\n  -e SDCARD /storage/emulated/0\n  -e EXTERNAL /storage/emulated/0/Android/data/com.retroarch.aarch64/files\n  --activity-clear-task\n  --activity-clear-top",
+            "amStartArguments": "-a android.intent.action.VIEW -d file://{file.path}
             "killPackageProcesses": true,
             "killPackageProcessesWarning": true,
             "extra": ""
