@@ -24,7 +24,7 @@
             "name": "flash - Web - ruffle.rs",
             "description": "Supported extensions: swf.",
             "acceptedFilenameRegex": "^(.*)\\.(?:swf)$",
-            "amStartArguments": "-a android.intent.action.VIEW -d file://{file.path}
+            "amStartArguments": "-a android.intent.action.VIEW -d file://{file.path}"
             "killPackageProcesses": true,
             "killPackageProcessesWarning": true,
             "extra": ""
