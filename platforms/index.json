@@ -316,6 +316,11 @@
       "platformName": "TIC-80",
       "platformShortname": "tic80"
     },
+{
+      "filename": "TombRaiderGameEngine.json",
+      "platformName": "Tomb Raider Game Engine",
+      "platformShortname": "tr"
+    },
     {
       "filename": "TurboGrafx16.json",
       "platformName": "TurboGrafx-16",
