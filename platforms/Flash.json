@@ -1,8 +1,8 @@
 {
     "databaseVersion": 6,
     "platform": {
-        "name": "CP System II",
-        "shortname": "cps2",
+        "name": "Flash",
+        "shortname": "flash",
         "description": null,
         "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
         "scraperSourceList": [
