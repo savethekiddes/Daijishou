@@ -1,15 +1,11 @@
 {
     "databaseVersion": 6,
     "platform": {
-        "name": "CP System I",
-        "shortname": "cps1",
+        "name": "Flash",
+        "shortname": "flash",
         "description": null,
         "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
-        "scraperSourceList": [
-          "LIBRETRO:FBNeo - Arcade Games",
-          "LIBRETRO:MAME",
-          "ARCADE_ITALIA:MAME"
-        ],
+        "scraperSourceList": [],
         "boxArtAspectRatioId": 2,
         "useCustomBoxArtAspectRatio": false,
         "customBoxArtAspectRatio": null,
@@ -17,7 +13,7 @@
         "useCustomScreenAspectRatio": false,
         "customScreenAspectRatio": null,
         "extra": ""
-    },
+},
 "playerList": [
         {
             "name": "gw - RetroArch 64 - gw",
