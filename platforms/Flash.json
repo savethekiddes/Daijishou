@@ -1,11 +1,15 @@
 {
     "databaseVersion": 6,
     "platform": {
-        "name": "Flash",
-        "shortname": "flash",
+        "name": "CP System I",
+        "shortname": "cps1",
         "description": null,
         "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
-        "scraperSourceList": [],
+        "scraperSourceList": [
+          "LIBRETRO:FBNeo - Arcade Games",
+          "LIBRETRO:MAME",
+          "ARCADE_ITALIA:MAME"
+        ],
         "boxArtAspectRatioId": 2,
         "useCustomBoxArtAspectRatio": false,
         "customBoxArtAspectRatio": null,
@@ -13,7 +17,7 @@
         "useCustomScreenAspectRatio": false,
         "customScreenAspectRatio": null,
         "extra": ""
-},
+    },
 "playerList": [
         {
             "name": "flash - Web - ruffle.rs",
