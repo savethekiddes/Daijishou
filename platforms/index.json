@@ -107,6 +107,11 @@
       "platformShortname": "fbneo"
     },
     {
+      "filename": "Flash.json",
+      "platformName": "Flash",
+      "platformShortname": "flash"
+    },
+    {
       "filename": "Game&Watch.json",
       "platformName": "Game & Watch",
       "platformShortname": "gw"
