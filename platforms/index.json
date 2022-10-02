@@ -22,9 +22,9 @@
       "platformShortname": "n64dd"
     },
     {
-      "filename": "Retroarch.json",
-      "platformName": "Retroarch",
-      "platformShortname": "retroarch"
+      "filename": "SMMWE.json",
+      "platformName": "Super Mario Maker World Engine",
+      "platformShortname": "smm"
     },
     {
       "filename": "TombRaiderGameEngine.json",
