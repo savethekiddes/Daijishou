@@ -22,6 +22,11 @@
       "platformShortname": "n64dd"
     },
     {
+      "filename": "Retroarch.json",
+      "platformName": "Retroarch",
+      "platformShortname": "retroarch"
+    },
+    {
       "filename": "TombRaiderGameEngine.json",
       "platformName": "Tomb Raider Game Engine",
       "platformShortname": "tr"
