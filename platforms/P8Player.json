@@ -1,0 +1,34 @@
+{
+    "databaseVersion": 8,
+    "platform": {
+        "name": "Enhaced Pico-8 with P8 Player",
+        "shortname": "P8P",
+        "description": null,
+        "acceptedFilenameRegex": "^.*$",
+        "scraperSourceList": [
+            "RAW:Android"
+        ],
+        "boxArtAspectRatioId": 0,
+        "useCustomBoxArtAspectRatio": false,
+        "customBoxArtAspectRatio": null,
+        "screenAspectRatioId": 0,
+        "useCustomScreenAspectRatio": false,
+        "customScreenAspectRatio": null,
+        "extra": ""
+    },
+    "playerList": [
+        {
+            "name": "p8p - P8 Player",
+            "description": "P8 Player",
+            "acceptedFilenameRegex": "^(.*)\\.(?:p8p)$",
+            "amStartArguments": "-n com.heiring.smmwe/com.heiring.smmwe.RunnerActivity\n",
+            "killPackageProcesses": false,
+            "killPackageProcessesWarning": true,
+            "extra": ""
+        }
+    ]
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
