@@ -1,0 +1,30 @@
+{
+    "databaseVersion": 8,
+    "platform": {
+        "name": "Super Mario Maker World Engine",
+        "shortname": "smm",
+        "description": null,
+        "acceptedFilenameRegex": "^.*$",
+        "scraperSourceList": [
+            "RAW:Android"
+        ],
+        "boxArtAspectRatioId": 0,
+        "useCustomBoxArtAspectRatio": false,
+        "customBoxArtAspectRatio": null,
+        "screenAspectRatioId": 0,
+        "useCustomScreenAspectRatio": false,
+        "customScreenAspectRatio": null,
+        "extra": ""
+    },
+    "playerList": [
+        {
+            "name": "smm - Super Mario Maker World Engine",
+            "description": "Super Mario Maker Port",
+            "acceptedFilenameRegex": "^$",
+            "amStartArguments": "-n {android.activity}\n",
+            "killPackageProcesses": false,
+            "killPackageProcessesWarning": true,
+            "extra": ""
+        }
+    ]
+}
