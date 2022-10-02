@@ -23,4 +23,4 @@ This is a simple Daijishou platform repository fork adding some extra platforms 
 
 # Disclaimer
 
-It's really likely that I will not update this repository with further platforms being added. So it's recommended to switch back to the magneticchen index after finishing installing the desired platform. The platforms are unofficial so they will not be supported by magneticchen (and also not by me, as I'm noob as a developer and lazy as a person).
+Remember that this repo contains only homebrews, so it's recommended to switch back to the magneticchen index after finishing installing the desired platform. The platforms are unofficial so they will not be supported by magneticchen (and also not by me, as I'm noob as a developer and lazy as a person).
