@@ -19,6 +19,7 @@ This is a simple Daijishou platform repository fork adding some extra platforms 
 
 - Android 
 - Flash (check [here](https://github.com/magneticchen/Daijishou/issues/94) for how to install)
+- Tomb Raider (1, 2 and 3)
 
 # Disclaimer
 
