@@ -27,6 +27,11 @@
       "platformShortname": "p8p"
     },
     {
+      "filename": "PSPMinis.json",
+      "platformName": "PSP Minis",
+      "platformShortname": "pspminis"
+    },
+    {
       "filename": "SMMWE.json",
       "platformName": "SMM:WE (dummy.smm required)",
       "platformShortname": "smm"
