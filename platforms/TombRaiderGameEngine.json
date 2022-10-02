@@ -2,7 +2,7 @@
   "databaseVersion": 6,
   "platform": {
     "name": "Tomb Raider Game Engine",
-    "shortname": "TR",
+    "shortname": "tr",
     "description": null,
     "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
     "scraperSourceList": [],
