@@ -1,0 +1,30 @@
+{
+    "databaseVersion": 8,
+    "platform": {
+        "name": "Retroarch",
+        "shortname": "retroarch",
+        "description": null,
+        "acceptedFilenameRegex": "^.*$",
+        "scraperSourceList": [
+            "RAW:Android"
+        ],
+        "boxArtAspectRatioId": 0,
+        "useCustomBoxArtAspectRatio": false,
+        "customBoxArtAspectRatio": null,
+        "screenAspectRatioId": 0,
+        "useCustomScreenAspectRatio": false,
+        "customScreenAspectRatio": null,
+        "extra": ""
+    },
+    "playerList": [
+        {
+            "name": "retroarch - activity component player",
+            "description": "Android activity component player",
+            "acceptedFilenameRegex": "etroarch$",
+            "amStartArguments": "-n {android.activity}\n",
+            "killPackageProcesses": false,
+            "killPackageProcessesWarning": true,
+            "extra": ""
+        }
+    ]
+}
