@@ -2,7 +2,7 @@
     "databaseVersion": 8,
     "platform": {
         "name": "Enhaced Pico-8 with P8 Player",
-        "shortname": "P8P",
+        "shortname": "p8p",
         "description": null,
         "acceptedFilenameRegex": "^.*$",
         "scraperSourceList": [
