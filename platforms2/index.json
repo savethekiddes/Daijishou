@@ -1,0 +1,20 @@
+{
+  "baseUri": "https://raw.githubusercontent.com/savethekiddes/Daijishou/main/platforms/",
+  "platformList": [
+    {
+      "filename": "Android.json",
+      "platformName": "Android",
+      "platformShortname": "android"
+    },
+    {
+      "filename": "Flash.json",
+      "platformName": "Flash",
+      "platformShortname": "flash"
+    },
+    {
+      "filename": "TombRaiderGameEngine.json",
+      "platformName": "Tomb Raider Game Engine",
+      "platformShortname": "tr"
+    }
+  ]
+}
