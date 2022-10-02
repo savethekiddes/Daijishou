@@ -20,7 +20,7 @@
         {
             "name": "retroarch - activity component player",
             "description": "Android activity component player",
-            "acceptedFilenameRegex": "etroarch$",
+            "acceptedFilenameRegex": "etroarch",
             "amStartArguments": "-n {android.activity}\n",
             "killPackageProcesses": false,
             "killPackageProcessesWarning": true,
