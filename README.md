@@ -28,6 +28,13 @@ Some particular platforms need files called Dummies.
 
 Here's how to install a dummy:
 
+- Create a folder called "Dummies" 
+- Download from [here](https://github.com/savethekiddes/Daijishou/tree/main/dummies) the required dummy file
+- Place it in the Dummies folder
+- Download the desired platform
+- Go into Path and select the Dummies folder
+- Sync
+
 # Disclaimer
 
 Remember that this repo contains only homebrews, so it's recommended to switch back to the magneticchen index after finishing installing the desired platform. The platforms are unofficial so they will not be supported by magneticchen (and also not by me, as I'm noob as a developer and lazy as a person).
