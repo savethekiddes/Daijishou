@@ -21,7 +21,7 @@
             "name": "smm - Super Mario Maker World Engine",
             "description": "Super Mario Maker Port",
             "acceptedFilenameRegex": "^$",
-            "amStartArguments": "-n com.heiring.smmwe.RunnerActivity\n",
+            "amStartArguments": "-n com.heiring.smmwe/com.heiring.smmwe.RunnerActivity\n",
             "killPackageProcesses": false,
             "killPackageProcessesWarning": true,
             "extra": ""
