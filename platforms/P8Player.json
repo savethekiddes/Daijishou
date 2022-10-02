@@ -21,7 +21,7 @@
             "name": "p8p - P8 Player",
             "description": "P8 Player",
             "acceptedFilenameRegex": "^(.*)\\.(?:p8p)$",
-            "amStartArguments": "-n com.ylstudios.pico8/com.pico8.MainActivity\n",
+            "amStartArguments": "-n com.ylstudios.p8player/com.pico8.MainActivity\n",
             "killPackageProcesses": false,
             "killPackageProcessesWarning": true,
             "extra": ""
