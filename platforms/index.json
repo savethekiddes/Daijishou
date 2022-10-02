@@ -17,6 +17,11 @@
       "platformShortname": "flash"
     },
     {
+      "filename": "N64DD.json",
+      "platformName": "Nintendo 64 DD",
+      "platformShortname": "n64dd"
+    },
+    {
       "filename": "TombRaiderGameEngine.json",
       "platformName": "Tomb Raider Game Engine",
       "platformShortname": "tr"
