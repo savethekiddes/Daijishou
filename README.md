@@ -35,6 +35,7 @@ Here's how to install a dummy:
 - Go into Path and select the Dummies folder
 - Sync
 
+Note: if your browser downloads the dummy as a text file, remove the .txt extension
 # Disclaimer
 
 Remember that this repo contains only homebrews, so it's recommended to switch back to the magneticchen index after finishing installing the desired platform. The platforms are unofficial so they will not be supported by magneticchen (and also not by me, as I'm noob as a developer and lazy as a person).
