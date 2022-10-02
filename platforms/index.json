@@ -3,7 +3,7 @@
   "platformList": [
     {
       "filename": "title.json",
-      "platformName": "☠️ DAIJISHOU HOMEBREW",
+      "platformName": "☠️ DAIJISHOU HOMEBREW LOADER",
       "platformShortname": "title"
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "filename": "Flash.json",
-      "platformName": "Flash",
+      "platformName": "Flash [EXPERIMENTAL]",
       "platformShortname": "flash"
     },
     {
