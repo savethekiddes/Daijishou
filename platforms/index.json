@@ -22,6 +22,11 @@
       "platformShortname": "n64dd"
     },
     {
+      "filename": "P8Player.json",
+      "platformName": "P8Player (dummy.p8p required)",
+      "platformShortname": "p8p"
+    },
+    {
       "filename": "SMMWE.json",
       "platformName": "SMM:WE (dummy.smm required)",
       "platformShortname": "smm"
