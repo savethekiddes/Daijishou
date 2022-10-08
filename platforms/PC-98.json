@@ -1,8 +1,8 @@
 {
   "databaseVersion": 6,
   "platform": {
-    "name": "Tomb Raider Game Engine",
-    "shortname": "tr",
+    "name": "PC-98",
+    "shortname": "pc98",
     "description": null,
     "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
     "scraperSourceList": [],
