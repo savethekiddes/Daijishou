@@ -28,7 +28,7 @@
 
     {
       "name": "tombraider - RetroArch 32 - openlara",
-      "description": "Supported extensions: phd, psx, t32.",
+      "description": "Supported extensions: d98, zip, 98d, fdi, fdd, 2hd, tfd, d88, 88d, hdm, xdf, dup, cmd, hdi, thd, nhd, hdd, hdn.",
       "acceptedFilenameRegex": "^(.*)\\.(?:phd|psx|t32)$",
       "amStartArguments": "-n com.retroarch.ra32/com.retroarch.browser.retroactivity.RetroActivityFuture\n  -e ROM {file.path}\n  -e LIBRETRO /data/data/com.retroarch.ra32/cores/openlara_libretro_android.so\n  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.ra32/files/retroarch.cfg\n --activity-clear-task\n  --activity-clear-top",
       "killPackageProcesses": true,
@@ -39,7 +39,7 @@
 
     {
       "name": "tombraider - RetroArch - openlara",
-      "description": "Supported extensions: phd, psx, t32.",
+      "description": "Supported extensions: d98, zip, 98d, fdi, fdd, 2hd, tfd, d88, 88d, hdm, xdf, dup, cmd, hdi, thd, nhd, hdd, hdn.",
       "acceptedFilenameRegex": "^(.*)\\.(?:phd|psx|t32)$",
       "amStartArguments": "-n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture\n  -e ROM {file.path}\n  -e LIBRETRO /data/data/com.retroarch/cores/openlara_libretro_android.so\n  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg\n --activity-clear-task\n  --activity-clear-top",
       "killPackageProcesses": true,
