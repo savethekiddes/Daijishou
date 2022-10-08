@@ -27,6 +27,11 @@
       "platformShortname": "p8p"
     },
     {
+      "filename": "PC98.json",
+      "platformName": "PC-98",
+      "platformShortname": "pc98"
+    },
+    {
       "filename": "PSPMinis.json",
       "platformName": "PSP Minis",
       "platformShortname": "pspminis"
