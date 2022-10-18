@@ -20,7 +20,7 @@ This is a simple Daijishou platform repository fork adding some extra platforms 
 - Android 
 - Flash (check [here](https://github.com/magneticchen/Daijishou/issues/94) for how to install)
 - Nintendo 64 DD (the default n64 platform lets you play n64dd games too, this is just a separate tab to keep things in order)
-- P8 Player (as a platform)
+- P8 Player (as a platform, dummy.p8p required)
 - PSP Minis
 - Super Mario Maker World Engine (dummy.smm required)
 - Tomb Raider Game Engine
