@@ -32,6 +32,11 @@
       "platformShortname": "pc98"
     },
     {
+      "filename": "Ports.json",
+      "platformName": "Ports",
+      "platformShortname": "ports"
+    },
+    {
       "filename": "PSPMinis.json",
       "platformName": "PSP Minis",
       "platformShortname": "pspminis"
